@@ -55,3 +55,7 @@ count_if 在一个区间内（参数1， 参数2），计算让参数3返回true
         int ret = add(5);
         cout << ret << endl;//8
     }
+
+-----
+### **包装器function**
+降低模板的低效性。
